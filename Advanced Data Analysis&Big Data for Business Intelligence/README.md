@@ -1,1 +1,2 @@
-# data_visualization_course
+
+Advanced Data Analysis&Big Data for Business Intelligence course
