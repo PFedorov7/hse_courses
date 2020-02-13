@@ -1,0 +1,499 @@
+﻿Country;Federal District;Federal contributions (% federal total for revenue type);Federal contributions (RUB mn);ID;National rank for specific revenue type;Number of Records;Region;Revenue type
+Russia;Central Federal District;2,52%;RUB 10 648,5M;49;11st;1;Moscow Oblast;Excises
+Russia;Central Federal District;1,45%;RUB 6 138,6M;61;16th;1;Ryazan Oblast;Excises
+Russia;Central Federal District;1,35%;RUB 5 729,7M;20;18th;1;Kaluga Oblast;Excises
+Russia;Central Federal District;0,53%;RUB 2 258,3M;79;27th;1;Tula Oblast;Excises
+Russia;Central Federal District;9,43%;RUB 39 900,2M;47;2nd;1;Moscow;Excises
+Russia;Central Federal District;0,38%;RUB 1 619,4M;8;32nd;1;Bryansk Oblast;Excises
+Russia;Central Federal District;0,28%;RUB 1 196,3M;3;37th;1;Belgorod Oblast;Excises
+Russia;Central Federal District;0,18%;RUB 762,9M;39;44th;1;Lipetsk Oblast;Excises
+Russia;Central Federal District;0,13%;RUB 554,1M;35;46th;1;Kursk Oblast;Excises
+Russia;Central Federal District;0,09%;RUB 401,3M;15;48th;1;Ivanovo Oblast;Excises
+Russia;Central Federal District;0,09%;RUB 380,4M;95;49th;1;Vladimir Oblast;Excises
+Russia;Central Federal District;0,09%;RUB 370,5M;26;51st;1;Kostroma Oblast;Excises
+Russia;Central Federal District;0,08%;RUB 342,9M;89;52nd;1;Tver Oblast;Excises
+Russia;Central Federal District;0,04%;RUB 163,8M;70;55th;1;Smolensk Oblast;Excises
+Russia;Central Federal District;0,04%;RUB 158,0M;101;56th;1;Voronezh Oblast;Excises
+Russia;Central Federal District;0,01%;RUB 59,2M;77;66th;1;Tambov Oblast;Excises
+Russia;Central Federal District;0,01%;RUB 58,9M;59;67th;1;Oryol Oblast;Excises
+Russia;Central Federal District;4,06%;RUB 17 177,1M;108;7th;1;Yaroslavl Oblast;Excises
+Russia;Far East Federal District;0,75%;RUB 3 168,8M;133;21st;1;Khabarovsk Krai;Excises
+Russia;Far East Federal District;0,52%;RUB 2 185,6M;147;28th;1;Primorsky Krai;Excises
+Russia;Far East Federal District;0,05%;RUB 227,7M;154;52nd;1;Sakha (Yakutia) Republic;Excises
+Russia;Far East Federal District;0,01%;RUB 40,1M;162;68th;1;Sakhalin Oblast;Excises
+Russia;Far East Federal District;0,00%;RUB 0,0M;114;82nd;1;Amur Oblast;Excises
+Russia;Far East Federal District;0,00%;RUB 0,0M;120;82nd;1;Chutotka Autonomous Area;Excises
+Russia;Far East Federal District;0,00%;RUB 0,0M;126;82nd;1;Jewish Autonomous Oblast;Excises
+Russia;Far East Federal District;0,00%;RUB 0,0M;132;82nd;1;Kamchatka Krai;Excises
+Russia;Far East Federal District;0,00%;RUB 0,0M;144;82nd;1;Magadan Oblast;Excises
+Russia;North Caucasus Federal District;0,37%;RUB 1 551,6M;201;32nd;1;Stavropol Krai;Excises
+Russia;North Caucasus Federal District;0,35%;RUB 1 492,7M;169;34th;1;Kabardino-Balkar Republic;Excises
+Russia;North Caucasus Federal District;0,34%;RUB 1 436,5M;182;36th;1;Republic of Dagestan;Excises
+Russia;North Caucasus Federal District;0,03%;RUB 143,1M;193;58th;1;Republic of North Ossetia;Excises
+Russia;North Caucasus Federal District;0,02%;RUB 86,5M;177;62nd;1;Karachay-Cherkess Republic;Excises
+Russia;North Caucasus Federal District;0,00%;RUB 0,1M;165;69th;1;Chechen Republic;Excises
+Russia;North Caucasus Federal District;0,00%;RUB 0,0M;192;82nd;1;Republic of Ingushetia;Excises
+Russia;Northwest Federal District;2,16%;RUB 9 127,1M;212;14th;1;Kaliningrad Oblast;Excises
+Russia;Northwest Federal District;21,73%;RUB 91 940,8M;259;1st;1;St. Petersburg;Excises
+Russia;Northwest Federal District;0,57%;RUB 2 395,5M;218;26th;1;Komi Republic;Excises
+Russia;Northwest Federal District;0,46%;RUB 1 944,3M;267;29th;1;Vologda Oblast;Excises
+Russia;Northwest Federal District;12,25%;RUB 51 847,6M;227;2nd;1;Leningrad Oblast;Excises
+Russia;Northwest Federal District;0,23%;RUB 973,8M;206;41st;1;Arkhangelsk Oblast;Excises
+Russia;Northwest Federal District;0,13%;RUB 564,1M;254;45th;1;Republic of Karelia;Excises
+Russia;Northwest Federal District;0,01%;RUB 63,3M;245;65th;1;Novgorod Oblast;Excises
+Russia;Northwest Federal District;0,00%;RUB 0,0M;234;82nd;1;Murmansk Oblast;Excises
+Russia;Northwest Federal District;0,00%;RUB 0,0M;240;82nd;1;Nenets Autonomous Area;Excises
+Russia;Northwest Federal District;0,00%;RUB 0,0M;252;82nd;1;Pskov Oblast;Excises
+Russia;Siberian Federal District;0,95%;RUB 4 040,2M;287;19th;1;Irkutsk Oblast;Excises
+Russia;Siberian Federal District;0,70%;RUB 2 978,6M;289;22nd;1;Kemerovo Oblast;Excises
+Russia;Siberian Federal District;0,62%;RUB 2 627,2M;305;24th;1;Novosibirsk Oblast;Excises
+Russia;Siberian Federal District;0,60%;RUB 2 545,8M;296;25th;1;Krasnoyarsk Krai;Excises
+Russia;Siberian Federal District;0,23%;RUB 988,5M;274;40th;1;Altai Krai;Excises
+Russia;Siberian Federal District;0,02%;RUB 99,4M;314;61st;1;Republic of Buryatia;Excises
+Russia;Siberian Federal District;0,02%;RUB 71,2M;330;64th;1;Tomsk Oblast;Excises
+Russia;Siberian Federal District;0,00%;RUB 0,0M;282;82nd;1;Altai Republic;Excises
+Russia;Siberian Federal District;0,00%;RUB 0,0M;324;82nd;1;Republic of Khakassia;Excises
+Russia;Siberian Federal District;0,00%;RUB 0,0M;336;82nd;1;Tuva Republic;Excises
+Russia;Siberian Federal District;0,00%;RUB 0,0M;342;82nd;1;Zabaykalsky Krai;Excises
+Russia;Siberian Federal District;3,24%;RUB 13 696,7M;312;8th;1;Omsk Oblast;Excises
+Russia;Southern Federal District;2,78%;RUB 11 747,8M;373;10th;1;Volgograd Oblast;Excises
+Russia;Southern Federal District;0,70%;RUB 2 950,7M;344;22nd;1;Astrakhan Oblast;Excises
+Russia;Southern Federal District;0,03%;RUB 136,4M;356;59th;1;Republic of Adygeya;Excises
+Russia;Southern Federal District;4,73%;RUB 20 030,5M;353;5th;1;Krasnodar Krai;Excises
+Russia;Southern Federal District;4,25%;RUB 17 991,1M;372;6th;1;Rostov Oblast;Excises
+Russia;Southern Federal District;0,00%;RUB 0,0M;366;82nd;1;Republic of Kalmykia;Excises
+Russia;Ural Federal District;0,40%;RUB 1 705,2M;388;31st;1;Khanty-Mansi Autonomous Area - Yugra;Excises
+Russia;Ural Federal District;0,28%;RUB 1 164,4M;407;38th;1;Tyumen Oblast;Excises
+Russia;Ural Federal District;0,09%;RUB 376,2M;383;50th;1;Chelyabinsk Oblast;Excises
+Russia;Ural Federal District;0,05%;RUB 208,4M;413;54th;1;Yamalo-Nenets Autonomous Area;Excises
+Russia;Ural Federal District;0,03%;RUB 106,4M;400;60th;1;Sverdlovsk Oblast;Excises
+Russia;Ural Federal District;0,02%;RUB 94,0M;395;62nd;1;Kurgan Oblast;Excises
+Russia;Volga Federal District;2,46%;RUB 10 405,1M;470;12th;1;Republic of Tatarstan;Excises
+Russia;Volga Federal District;2,23%;RUB 9 443,8M;475;12th;1;Samara Oblast;Excises
+Russia;Volga Federal District;2,05%;RUB 8 688,0M;433;15th;1;Nizhny Novgorod Oblast;Excises
+Russia;Volga Federal District;1,45%;RUB 6 121,2M;454;17th;1;Perm Krai;Excises
+Russia;Volga Federal District;0,81%;RUB 3 433,1M;463;20th;1;Republic of Mordovia;Excises
+Russia;Volga Federal District;0,43%;RUB 1 840,4M;491;30th;1;Udmurt Republic;Excises
+Russia;Volga Federal District;0,34%;RUB 1 444,9M;446;35th;1;Penza Oblast;Excises
+Russia;Volga Federal District;0,24%;RUB 1 019,0M;495;39th;1;Ulyanovsk Oblast;Excises
+Russia;Volga Federal District;0,21%;RUB 875,9M;422;42nd;1;Kirov Oblast;Excises
+Russia;Volga Federal District;0,21%;RUB 897,1M;442;42nd;1;Orenburg Oblast;Excises
+Russia;Volga Federal District;0,10%;RUB 413,4M;417;47th;1;Chuvash Republic;Excises
+Russia;Volga Federal District;5,83%;RUB 24 678,0M;486;4th;1;Saratov Oblast;Excises
+Russia;Volga Federal District;0,03%;RUB 143,5M;427;57th;1;Mari El Republic;Excises
+Russia;Volga Federal District;3,10%;RUB 13 125,2M;462;9th;1;Republic of Bashkortostan;Excises
+Russia;Central Federal District;0,01%;RUB 280,6M;5;40th;1;Belgorod Oblast;MET
+Russia;Central Federal District;0,01%;RUB 166,4M;34;45th;1;Kursk Oblast;MET
+Russia;Central Federal District;0,00%;RUB 19,0M;51;52nd;1;Moscow Oblast;MET
+Russia;Central Federal District;0,00%;RUB 14,3M;40;55th;1;Lipetsk Oblast;MET
+Russia;Central Federal District;0,00%;RUB 10,6M;48;59th;1;Moscow;MET
+Russia;Central Federal District;0,00%;RUB 9,2M;24;62nd;1;Kaluga Oblast;MET
+Russia;Central Federal District;0,00%;RUB 8,2M;102;62nd;1;Voronezh Oblast;MET
+Russia;Central Federal District;0,00%;RUB 8,1M;11;64th;1;Bryansk Oblast;MET
+Russia;Central Federal District;0,00%;RUB 2,9M;83;68th;1;Tula Oblast;MET
+Russia;Central Federal District;0,00%;RUB 2,5M;66;69th;1;Ryazan Oblast;MET
+Russia;Central Federal District;0,00%;RUB 0,8M;90;72nd;1;Tver Oblast;MET
+Russia;Central Federal District;0,00%;RUB 0,8M;96;72nd;1;Vladimir Oblast;MET
+Russia;Central Federal District;0,00%;RUB 0,2M;60;76th;1;Oryol Oblast;MET
+Russia;Central Federal District;0,00%;RUB 0,2M;107;76th;1;Yaroslavl Oblast;MET
+Russia;Central Federal District;0,00%;RUB 0,0M;18;82nd;1;Ivanovo Oblast;MET
+Russia;Central Federal District;0,00%;RUB 0,0M;30;82nd;1;Kostroma Oblast;MET
+Russia;Central Federal District;0,00%;RUB 0,0M;72;82nd;1;Smolensk Oblast;MET
+Russia;Central Federal District;0,00%;RUB 0,0M;78;82nd;1;Tambov Oblast;MET
+Russia;Far East Federal District;1,28%;RUB 30 708,5M;151;12th;1;Sakha (Yakutia) Republic;MET
+Russia;Far East Federal District;0,14%;RUB 3 376,3M;158;22nd;1;Sakhalin Oblast;MET
+Russia;Far East Federal District;0,05%;RUB 1 210,9M;139;28th;1;Magadan Oblast;MET
+Russia;Far East Federal District;0,04%;RUB 986,9M;115;29th;1;Chutotka Autonomous Area;MET
+Russia;Far East Federal District;0,04%;RUB 960,6M;109;30th;1;Amur Oblast;MET
+Russia;Far East Federal District;0,03%;RUB 710,4M;135;31st;1;Khabarovsk Krai;MET
+Russia;Far East Federal District;0,01%;RUB 299,1M;127;39th;1;Kamchatka Krai;MET
+Russia;Far East Federal District;0,00%;RUB 94,5M;148;48th;1;Primorsky Krai;MET
+Russia;Far East Federal District;0,00%;RUB 13,9M;121;56th;1;Jewish Autonomous Oblast;MET
+Russia;North Caucasus Federal District;0,15%;RUB 3 622,0M;200;21st;1;Stavropol Krai;MET
+Russia;North Caucasus Federal District;0,09%;RUB 2 227,7M;163;25th;1;Chechen Republic;MET
+Russia;North Caucasus Federal District;0,03%;RUB 672,5M;181;32nd;1;Republic of Dagestan;MET
+Russia;North Caucasus Federal District;0,01%;RUB 146,7M;187;46th;1;Republic of Ingushetia;MET
+Russia;North Caucasus Federal District;0,00%;RUB 16,5M;176;54th;1;Karachay-Cherkess Republic;MET
+Russia;North Caucasus Federal District;0,00%;RUB 4,3M;170;66th;1;Kabardino-Balkar Republic;MET
+Russia;North Caucasus Federal District;0,00%;RUB 0,5M;195;72nd;1;Republic of North Ossetia;MET
+Russia;Northwest Federal District;1,19%;RUB 28 643,4M;235;15th;1;Nenets Autonomous Area;MET
+Russia;Northwest Federal District;0,16%;RUB 3 764,7M;214;20th;1;Kaliningrad Oblast;MET
+Russia;Northwest Federal District;0,02%;RUB 592,4M;229;32nd;1;Murmansk Oblast;MET
+Russia;Northwest Federal District;0,01%;RUB 168,8M;253;44th;1;Republic of Karelia;MET
+Russia;Northwest Federal District;0,00%;RUB 10,7M;228;58th;1;Leningrad Oblast;MET
+Russia;Northwest Federal District;0,00%;RUB 9,2M;210;62nd;1;Arkhangelsk Oblast;MET
+Russia;Northwest Federal District;0,00%;RUB 4,8M;270;65th;1;Vologda Oblast;MET
+Russia;Northwest Federal District;0,00%;RUB 3,0M;246;67th;1;Novgorod Oblast;MET
+Russia;Northwest Federal District;0,00%;RUB 0,4M;251;74th;1;Pskov Oblast;MET
+Russia;Northwest Federal District;0,00%;RUB 0,0M;264;82nd;1;St. Petersburg;MET
+Russia;Northwest Federal District;2,28%;RUB 54 729,1M;222;9th;1;Komi Republic;MET
+Russia;Siberian Federal District;2,25%;RUB 54 060,8M;325;10th;1;Tomsk Oblast;MET
+Russia;Siberian Federal District;1,24%;RUB 29 687,7M;284;14th;1;Irkutsk Oblast;MET
+Russia;Siberian Federal District;0,10%;RUB 2 373,7M;304;24th;1;Novosibirsk Oblast;MET
+Russia;Siberian Federal District;0,07%;RUB 1 717,2M;309;26th;1;Omsk Oblast;MET
+Russia;Siberian Federal District;0,07%;RUB 1 600,8M;292;27th;1;Kemerovo Oblast;MET
+Russia;Siberian Federal District;0,02%;RUB 567,1M;337;34th;1;Zabaykalsky Krai;MET
+Russia;Siberian Federal District;0,01%;RUB 248,6M;313;42nd;1;Republic of Buryatia;MET
+Russia;Siberian Federal District;0,01%;RUB 217,8M;319;42nd;1;Republic of Khakassia;MET
+Russia;Siberian Federal District;0,00%;RUB 77,6M;276;49th;1;Altai Krai;MET
+Russia;Siberian Federal District;0,00%;RUB 58,7M;331;50th;1;Tuva Republic;MET
+Russia;Siberian Federal District;0,00%;RUB 11,9M;277;57th;1;Altai Republic;MET
+Russia;Siberian Federal District;3,92%;RUB 94 124,2M;297;5th;1;Krasnoyarsk Krai;MET
+Russia;Southern Federal District;0,36%;RUB 8 577,0M;343;16th;1;Astrakhan Oblast;MET
+Russia;Southern Federal District;0,34%;RUB 8 229,7M;374;17th;1;Volgograd Oblast;MET
+Russia;Southern Federal District;0,24%;RUB 5 872,2M;350;18th;1;Krasnodar Krai;MET
+Russia;Southern Federal District;0,02%;RUB 422,0M;361;37th;1;Republic of Kalmykia;MET
+Russia;Southern Federal District;0,01%;RUB 270,0M;371;41st;1;Rostov Oblast;MET
+Russia;Southern Federal District;0,00%;RUB 117,1M;355;47th;1;Republic of Adygeya;MET
+Russia;Ural Federal District;2,08%;RUB 49 912,2M;403;11st;1;Tyumen Oblast;MET
+Russia;Ural Federal District;49,47%;RUB 1 187 842,0M;386;1st;1;Khanty-Mansi Autonomous Area - Yugra;MET
+Russia;Ural Federal District;15,42%;RUB 370 248,5M;411;2nd;1;Yamalo-Nenets Autonomous Area;MET
+Russia;Ural Federal District;0,02%;RUB 463,6M;399;36th;1;Sverdlovsk Oblast;MET
+Russia;Ural Federal District;0,02%;RUB 401,7M;382;38th;1;Chelyabinsk Oblast;MET
+Russia;Ural Federal District;0,00%;RUB 32,7M;393;52nd;1;Kurgan Oblast;MET
+Russia;Volga Federal District;1,76%;RUB 42 360,4M;487;12th;1;Udmurt Republic;MET
+Russia;Volga Federal District;0,18%;RUB 4 385,0M;481;19th;1;Saratov Oblast;MET
+Russia;Volga Federal District;0,12%;RUB 2 779,1M;494;22nd;1;Ulyanovsk Oblast;MET
+Russia;Volga Federal District;5,25%;RUB 126 152,9M;471;2nd;1;Republic of Tatarstan;MET
+Russia;Volga Federal District;0,02%;RUB 558,9M;445;35th;1;Penza Oblast;MET
+Russia;Volga Federal District;3,97%;RUB 95 402,3M;443;4th;1;Orenburg Oblast;MET
+Russia;Volga Federal District;0,00%;RUB 58,3M;424;51st;1;Kirov Oblast;MET
+Russia;Volga Federal District;0,00%;RUB 9,5M;467;60th;1;Republic of Mordovia;MET
+Russia;Volga Federal District;2,73%;RUB 65 622,4M;456;6th;1;Perm Krai;MET
+Russia;Volga Federal District;0,00%;RUB 1,0M;437;70th;1;Nizhny Novgorod Oblast;MET
+Russia;Volga Federal District;2,41%;RUB 57 750,8M;478;7th;1;Samara Oblast;MET
+Russia;Volga Federal District;0,00%;RUB 0,0M;420;82nd;1;Chuvash Republic;MET
+Russia;Volga Federal District;0,00%;RUB 0,0M;432;82nd;1;Mari El Republic;MET
+Russia;Volga Federal District;2,30%;RUB 55 284,2M;461;8th;1;Republic of Bashkortostan;MET
+Russia;Central Federal District;2,55%;RUB 4 886,1M;19;11st;1;Kaluga Oblast;Other taxes and dues
+Russia;Central Federal District;1,21%;RUB 2 310,9M;7;15th;1;Bryansk Oblast;Other taxes and dues
+Russia;Central Federal District;26,82%;RUB 51 315,3M;45;1st;1;Moscow;Other taxes and dues
+Russia;Central Federal District;0,50%;RUB 954,4M;97;26th;1;Voronezh Oblast;Other taxes and dues
+Russia;Central Federal District;0,40%;RUB 758,1M;38;30th;1;Lipetsk Oblast;Other taxes and dues
+Russia;Central Federal District;0,30%;RUB 583,3M;81;36th;1;Tula Oblast;Other taxes and dues
+Russia;Central Federal District;0,29%;RUB 561,3M;13;38th;1;Ivanovo Oblast;Other taxes and dues
+Russia;Central Federal District;0,29%;RUB 551,8M;64;39th;1;Ryazan Oblast;Other taxes and dues
+Russia;Central Federal District;0,26%;RUB 506,0M;105;40th;1;Yaroslavl Oblast;Other taxes and dues
+Russia;Central Federal District;0,26%;RUB 492,6M;33;42nd;1;Kursk Oblast;Other taxes and dues
+Russia;Central Federal District;0,23%;RUB 448,3M;55;42nd;1;Oryol Oblast;Other taxes and dues
+Russia;Central Federal District;0,23%;RUB 441,2M;94;44th;1;Vladimir Oblast;Other taxes and dues
+Russia;Central Federal District;0,23%;RUB 434,6M;87;45th;1;Tver Oblast;Other taxes and dues
+Russia;Central Federal District;0,22%;RUB 421,5M;6;48th;1;Belgorod Oblast;Other taxes and dues
+Russia;Central Federal District;6,43%;RUB 12 306,9M;68;4th;1;Smolensk Oblast;Other taxes and dues
+Russia;Central Federal District;5,49%;RUB 10 500,9M;53;5th;1;Moscow Oblast;Other taxes and dues
+Russia;Central Federal District;0,09%;RUB 175,5M;75;60th;1;Tambov Oblast;Other taxes and dues
+Russia;Central Federal District;0,06%;RUB 108,2M;29;70th;1;Kostroma Oblast;Other taxes and dues
+Russia;Far East Federal District;0,88%;RUB 1 674,8M;145;18th;1;Primorsky Krai;Other taxes and dues
+Russia;Far East Federal District;9,43%;RUB 18 052,6M;160;2nd;1;Sakhalin Oblast;Other taxes and dues
+Russia;Far East Federal District;0,34%;RUB 645,3M;110;34th;1;Amur Oblast;Other taxes and dues
+Russia;Far East Federal District;0,15%;RUB 292,5M;138;50th;1;Khabarovsk Krai;Other taxes and dues
+Russia;Far East Federal District;0,11%;RUB 211,6M;155;57th;1;Sakha (Yakutia) Republic;Other taxes and dues
+Russia;Far East Federal District;0,09%;RUB 174,7M;129;61st;1;Kamchatka Krai;Other taxes and dues
+Russia;Far East Federal District;0,04%;RUB 83,1M;141;72nd;1;Magadan Oblast;Other taxes and dues
+Russia;Far East Federal District;0,02%;RUB 31,2M;117;78th;1;Chutotka Autonomous Area;Other taxes and dues
+Russia;Far East Federal District;0,01%;RUB 16,9M;125;82nd;1;Jewish Autonomous Oblast;Other taxes and dues
+Russia;North Caucasus Federal District;0,61%;RUB 1 167,0M;199;21st;1;Stavropol Krai;Other taxes and dues
+Russia;North Caucasus Federal District;0,22%;RUB 425,6M;175;47th;1;Karachay-Cherkess Republic;Other taxes and dues
+Russia;North Caucasus Federal District;0,09%;RUB 163,9M;186;62nd;1;Republic of Dagestan;Other taxes and dues
+Russia;North Caucasus Federal District;0,04%;RUB 71,0M;197;74th;1;Republic of North Ossetia;Other taxes and dues
+Russia;North Caucasus Federal District;0,03%;RUB 62,6M;173;75th;1;Kabardino-Balkar Republic;Other taxes and dues
+Russia;North Caucasus Federal District;0,01%;RUB 18,1M;168;81st;1;Chechen Republic;Other taxes and dues
+Russia;North Caucasus Federal District;0,01%;RUB 17,5M;191;82nd;1;Republic of Ingushetia;Other taxes and dues
+Russia;Northwest Federal District;2,32%;RUB 4 432,6M;211;12th;1;Kaliningrad Oblast;Other taxes and dues
+Russia;Northwest Federal District;1,06%;RUB 2 018,9M;236;17th;1;Nenets Autonomous Area;Other taxes and dues
+Russia;Northwest Federal District;0,67%;RUB 1 289,6M;226;19th;1;Leningrad Oblast;Other taxes and dues
+Russia;Northwest Federal District;0,46%;RUB 878,3M;266;28th;1;Vologda Oblast;Other taxes and dues
+Russia;Northwest Federal District;7,27%;RUB 13 909,0M;261;2nd;1;St. Petersburg;Other taxes and dues
+Russia;Northwest Federal District;0,29%;RUB 561,4M;247;37th;1;Pskov Oblast;Other taxes and dues
+Russia;Northwest Federal District;0,14%;RUB 267,4M;232;51st;1;Murmansk Oblast;Other taxes and dues
+Russia;Northwest Federal District;0,14%;RUB 258,6M;242;52nd;1;Novgorod Oblast;Other taxes and dues
+Russia;Northwest Federal District;0,11%;RUB 214,1M;209;56th;1;Arkhangelsk Oblast;Other taxes and dues
+Russia;Northwest Federal District;0,08%;RUB 151,0M;221;64th;1;Komi Republic;Other taxes and dues
+Russia;Northwest Federal District;0,08%;RUB 148,3M;257;65th;1;Republic of Karelia;Other taxes and dues
+Russia;Siberian Federal District;1,12%;RUB 2 147,7M;302;16th;1;Novosibirsk Oblast;Other taxes and dues
+Russia;Siberian Federal District;0,55%;RUB 1 057,9M;271;22nd;1;Altai Krai;Other taxes and dues
+Russia;Siberian Federal District;0,52%;RUB 990,9M;295;24th;1;Krasnoyarsk Krai;Other taxes and dues
+Russia;Siberian Federal District;0,48%;RUB 918,3M;291;27th;1;Kemerovo Oblast;Other taxes and dues
+Russia;Siberian Federal District;0,37%;RUB 713,5M;288;31st;1;Irkutsk Oblast;Other taxes and dues
+Russia;Siberian Federal District;0,31%;RUB 600,4M;311;35th;1;Omsk Oblast;Other taxes and dues
+Russia;Siberian Federal District;0,09%;RUB 179,4M;329;59th;1;Tomsk Oblast;Other taxes and dues
+Russia;Siberian Federal District;0,06%;RUB 111,0M;316;68th;1;Republic of Buryatia;Other taxes and dues
+Russia;Siberian Federal District;0,06%;RUB 108,5M;339;69th;1;Zabaykalsky Krai;Other taxes and dues
+Russia;Siberian Federal District;0,05%;RUB 89,7M;321;72nd;1;Republic of Khakassia;Other taxes and dues
+Russia;Siberian Federal District;0,03%;RUB 59,3M;281;76th;1;Altai Republic;Other taxes and dues
+Russia;Siberian Federal District;0,01%;RUB 21,3M;335;80th;1;Tuva Republic;Other taxes and dues
+Russia;Southern Federal District;1,31%;RUB 2 509,5M;349;12th;1;Krasnodar Krai;Other taxes and dues
+Russia;Southern Federal District;0,66%;RUB 1 257,5M;369;20th;1;Rostov Oblast;Other taxes and dues
+Russia;Southern Federal District;0,53%;RUB 1 007,4M;375;22nd;1;Volgograd Oblast;Other taxes and dues
+Russia;Southern Federal District;0,10%;RUB 195,4M;348;58th;1;Astrakhan Oblast;Other taxes and dues
+Russia;Southern Federal District;0,03%;RUB 50,4M;360;77th;1;Republic of Adygeya;Other taxes and dues
+Russia;Southern Federal District;0,01%;RUB 22,7M;364;79th;1;Republic of Kalmykia;Other taxes and dues
+Russia;Ural Federal District;2,73%;RUB 5 225,7M;397;10th;1;Sverdlovsk Oblast;Other taxes and dues
+Russia;Ural Federal District;0,35%;RUB 665,4M;389;32nd;1;Khanty-Mansi Autonomous Area - Yugra;Other taxes and dues
+Russia;Ural Federal District;0,23%;RUB 430,6M;408;46th;1;Tyumen Oblast;Other taxes and dues
+Russia;Ural Federal District;0,19%;RUB 364,9M;392;49th;1;Kurgan Oblast;Other taxes and dues
+Russia;Ural Federal District;0,13%;RUB 251,7M;412;52nd;1;Yamalo-Nenets Autonomous Area;Other taxes and dues
+Russia;Ural Federal District;4,29%;RUB 8 214,3M;384;6th;1;Chelyabinsk Oblast;Other taxes and dues
+Russia;Volga Federal District;1,24%;RUB 2 377,0M;493;14th;1;Ulyanovsk Oblast;Other taxes and dues
+Russia;Volga Federal District;0,50%;RUB 960,1M;460;25th;1;Republic of Bashkortostan;Other taxes and dues
+Russia;Volga Federal District;0,44%;RUB 840,0M;455;29th;1;Perm Krai;Other taxes and dues
+Russia;Volga Federal District;0,36%;RUB 679,9M;441;32nd;1;Orenburg Oblast;Other taxes and dues
+Russia;Volga Federal District;0,26%;RUB 499,9M;484;41st;1;Saratov Oblast;Other taxes and dues
+Russia;Volga Federal District;0,13%;RUB 250,9M;492;54th;1;Udmurt Republic;Other taxes and dues
+Russia;Volga Federal District;0,12%;RUB 236,1M;449;55th;1;Penza Oblast;Other taxes and dues
+Russia;Volga Federal District;0,08%;RUB 152,1M;419;62nd;1;Chuvash Republic;Other taxes and dues
+Russia;Volga Federal District;0,07%;RUB 142,2M;426;66th;1;Kirov Oblast;Other taxes and dues
+Russia;Volga Federal District;0,07%;RUB 124,9M;468;67th;1;Republic of Mordovia;Other taxes and dues
+Russia;Volga Federal District;0,05%;RUB 92,9M;431;71st;1;Mari El Republic;Other taxes and dues
+Russia;Volga Federal District;4,09%;RUB 7 824,2M;474;7th;1;Republic of Tatarstan;Other taxes and dues
+Russia;Volga Federal District;4,01%;RUB 7 682,1M;438;8th;1;Nizhny Novgorod Oblast;Other taxes and dues
+Russia;Volga Federal District;3,82%;RUB 7 307,9M;480;9th;1;Samara Oblast;Other taxes and dues
+Russia;Central Federal District;50,98%;RUB 179 225,3M;44;1st;1;Moscow;Profit tax
+Russia;Central Federal District;0,39%;RUB 1 363,1M;37;24th;1;Lipetsk Oblast;Profit tax
+Russia;Central Federal District;0,32%;RUB 1 136,4M;80;28th;1;Tula Oblast;Profit tax
+Russia;Central Federal District;0,31%;RUB 1 079,3M;92;30th;1;Vladimir Oblast;Profit tax
+Russia;Central Federal District;0,28%;RUB 974,4M;2;31st;1;Belgorod Oblast;Profit tax
+Russia;Central Federal District;0,24%;RUB 844,4M;31;34th;1;Kursk Oblast;Profit tax
+Russia;Central Federal District;0,23%;RUB 794,8M;99;37th;1;Voronezh Oblast;Profit tax
+Russia;Central Federal District;0,22%;RUB 775,2M;23;38th;1;Kaluga Oblast;Profit tax
+Russia;Central Federal District;0,17%;RUB 613,1M;65;42nd;1;Ryazan Oblast;Profit tax
+Russia;Central Federal District;0,16%;RUB 560,5M;25;46th;1;Kostroma Oblast;Profit tax
+Russia;Central Federal District;0,15%;RUB 537,2M;106;48th;1;Yaroslavl Oblast;Profit tax
+Russia;Central Federal District;0,11%;RUB 401,6M;88;51st;1;Tver Oblast;Profit tax
+Russia;Central Federal District;0,09%;RUB 303,3M;69;54th;1;Smolensk Oblast;Profit tax
+Russia;Central Federal District;3,69%;RUB 12 957,0M;52;5th;1;Moscow Oblast;Profit tax
+Russia;Central Federal District;0,06%;RUB 223,4M;74;60th;1;Tambov Oblast;Profit tax
+Russia;Central Federal District;0,06%;RUB 217,3M;58;61st;1;Oryol Oblast;Profit tax
+Russia;Central Federal District;0,05%;RUB 191,0M;17;62nd;1;Ivanovo Oblast;Profit tax
+Russia;Central Federal District;0,05%;RUB 167,1M;12;67th;1;Bryansk Oblast;Profit tax
+Russia;Far East Federal District;0,47%;RUB 1 644,0M;152;22nd;1;Sakha (Yakutia) Republic;Profit tax
+Russia;Far East Federal District;0,34%;RUB 1 202,5M;146;26th;1;Primorsky Krai;Profit tax
+Russia;Far East Federal District;7,60%;RUB 26 725,8M;159;2nd;1;Sakhalin Oblast;Profit tax
+Russia;Far East Federal District;0,23%;RUB 815,7M;116;36th;1;Chutotka Autonomous Area;Profit tax
+Russia;Far East Federal District;0,15%;RUB 518,1M;137;49th;1;Khabarovsk Krai;Profit tax
+Russia;Far East Federal District;0,14%;RUB 496,6M;111;50th;1;Amur Oblast;Profit tax
+Russia;Far East Federal District;0,07%;RUB 242,6M;140;59th;1;Magadan Oblast;Profit tax
+Russia;Far East Federal District;0,05%;RUB 175,4M;131;66th;1;Kamchatka Krai;Profit tax
+Russia;Far East Federal District;0,00%;RUB 14,1M;124;81st;1;Jewish Autonomous Oblast;Profit tax
+Russia;North Caucasus Federal District;0,16%;RUB 565,8M;204;45th;1;Stavropol Krai;Profit tax
+Russia;North Caucasus Federal District;0,06%;RUB 195,9M;185;62nd;1;Republic of Dagestan;Profit tax
+Russia;North Caucasus Federal District;0,01%;RUB 51,7M;180;75th;1;Karachay-Cherkess Republic;Profit tax
+Russia;North Caucasus Federal District;0,01%;RUB 41,2M;198;77th;1;Republic of North Ossetia;Profit tax
+Russia;North Caucasus Federal District;0,01%;RUB 33,9M;174;78th;1;Kabardino-Balkar Republic;Profit tax
+Russia;North Caucasus Federal District;0,01%;RUB 22,4M;167;79th;1;Chechen Republic;Profit tax
+Russia;North Caucasus Federal District;0,00%;RUB 10,4M;190;82nd;1;Republic of Ingushetia;Profit tax
+Russia;Northwest Federal District;1,12%;RUB 3 920,8M;223;11st;1;Leningrad Oblast;Profit tax
+Russia;Northwest Federal District;0,40%;RUB 1 394,4M;265;22nd;1;Vologda Oblast;Profit tax
+Russia;Northwest Federal District;0,31%;RUB 1 102,2M;215;29th;1;Kaliningrad Oblast;Profit tax
+Russia;Northwest Federal District;8,37%;RUB 29 412,2M;260;2nd;1;St. Petersburg;Profit tax
+Russia;Northwest Federal District;0,27%;RUB 953,6M;241;32nd;1;Novgorod Oblast;Profit tax
+Russia;Northwest Federal District;0,21%;RUB 731,6M;230;41st;1;Murmansk Oblast;Profit tax
+Russia;Northwest Federal District;0,19%;RUB 682,2M;219;42nd;1;Komi Republic;Profit tax
+Russia;Northwest Federal District;0,09%;RUB 322,6M;208;52nd;1;Arkhangelsk Oblast;Profit tax
+Russia;Northwest Federal District;0,05%;RUB 183,8M;238;65th;1;Nenets Autonomous Area;Profit tax
+Russia;Northwest Federal District;0,03%;RUB 117,6M;258;71st;1;Republic of Karelia;Profit tax
+Russia;Northwest Federal District;0,03%;RUB 112,5M;250;72nd;1;Pskov Oblast;Profit tax
+Russia;Siberian Federal District;0,70%;RUB 2 459,0M;286;17th;1;Irkutsk Oblast;Profit tax
+Russia;Siberian Federal District;0,51%;RUB 1 803,7M;303;20th;1;Novosibirsk Oblast;Profit tax
+Russia;Siberian Federal District;0,34%;RUB 1 187,6M;290;27th;1;Kemerovo Oblast;Profit tax
+Russia;Siberian Federal District;0,24%;RUB 841,8M;310;35th;1;Omsk Oblast;Profit tax
+Russia;Siberian Federal District;0,21%;RUB 744,7M;328;40th;1;Tomsk Oblast;Profit tax
+Russia;Siberian Federal District;0,15%;RUB 539,9M;275;47th;1;Altai Krai;Profit tax
+Russia;Siberian Federal District;0,04%;RUB 156,2M;315;68th;1;Republic of Buryatia;Profit tax
+Russia;Siberian Federal District;0,03%;RUB 123,0M;320;70th;1;Republic of Khakassia;Profit tax
+Russia;Siberian Federal District;0,03%;RUB 115,2M;341;72nd;1;Zabaykalsky Krai;Profit tax
+Russia;Siberian Federal District;0,02%;RUB 59,8M;280;74th;1;Altai Republic;Profit tax
+Russia;Siberian Federal District;1,40%;RUB 4 920,4M;299;7th;1;Krasnoyarsk Krai;Profit tax
+Russia;Siberian Federal District;0,01%;RUB 19,1M;334;80th;1;Tuva Republic;Profit tax
+Russia;Southern Federal District;0,62%;RUB 2 184,1M;367;19th;1;Rostov Oblast;Profit tax
+Russia;Southern Federal District;0,24%;RUB 847,8M;377;32nd;1;Volgograd Oblast;Profit tax
+Russia;Southern Federal District;0,07%;RUB 244,9M;347;58th;1;Astrakhan Oblast;Profit tax
+Russia;Southern Federal District;0,01%;RUB 46,9M;359;76th;1;Republic of Adygeya;Profit tax
+Russia;Southern Federal District;0,00%;RUB 13,6M;365;82nd;1;Republic of Kalmykia;Profit tax
+Russia;Southern Federal District;1,29%;RUB 4 533,9M;354;8th;1;Krasnodar Krai;Profit tax
+Russia;Ural Federal District;1,22%;RUB 4 283,2M;409;10th;1;Yamalo-Nenets Autonomous Area;Profit tax
+Russia;Ural Federal District;1,04%;RUB 3 667,3M;404;12th;1;Tyumen Oblast;Profit tax
+Russia;Ural Federal District;0,81%;RUB 2 855,7M;380;16th;1;Chelyabinsk Oblast;Profit tax
+Russia;Ural Federal District;4,69%;RUB 16 490,8M;390;4th;1;Khanty-Mansi Autonomous Area - Yugra;Profit tax
+Russia;Ural Federal District;0,05%;RUB 188,3M;396;64th;1;Kurgan Oblast;Profit tax
+Russia;Ural Federal District;1,24%;RUB 4 342,4M;402;9th;1;Sverdlovsk Oblast;Profit tax
+Russia;Volga Federal District;1,03%;RUB 3 624,8M;453;12th;1;Perm Krai;Profit tax
+Russia;Volga Federal District;0,92%;RUB 3 244,4M;458;14th;1;Republic of Bashkortostan;Profit tax
+Russia;Volga Federal District;0,84%;RUB 2 961,0M;476;15th;1;Samara Oblast;Profit tax
+Russia;Volga Federal District;0,67%;RUB 2 350,0M;439;18th;1;Orenburg Oblast;Profit tax
+Russia;Volga Federal District;0,48%;RUB 1 704,4M;435;21st;1;Nizhny Novgorod Oblast;Profit tax
+Russia;Volga Federal District;0,35%;RUB 1 225,6M;490;25th;1;Udmurt Republic;Profit tax
+Russia;Volga Federal District;0,22%;RUB 768,9M;464;39th;1;Republic of Mordovia;Profit tax
+Russia;Volga Federal District;0,17%;RUB 587,9M;485;44th;1;Saratov Oblast;Profit tax
+Russia;Volga Federal District;0,11%;RUB 383,9M;418;52nd;1;Chuvash Republic;Profit tax
+Russia;Volga Federal District;0,09%;RUB 302,5M;498;55th;1;Ulyanovsk Oblast;Profit tax
+Russia;Volga Federal District;0,07%;RUB 263,3M;425;56th;1;Kirov Oblast;Profit tax
+Russia;Volga Federal District;0,07%;RUB 253,3M;450;57th;1;Penza Oblast;Profit tax
+Russia;Volga Federal District;0,04%;RUB 149,1M;430;69th;1;Mari El Republic;Profit tax
+Russia;Volga Federal District;2,00%;RUB 7 045,2M;473;6th;1;Republic of Tatarstan;Profit tax
+Russia;Central Federal District;0,61%;RUB 31 620,9M;104;29th;1;Yaroslavl Oblast;TOTAL FEDERAL TAX
+Russia;Central Federal District;14,75%;RUB 764 800,0M;46;2nd;1;Moscow;TOTAL FEDERAL TAX
+Russia;Central Federal District;0,54%;RUB 27 796,0M;22;31st;1;Kaluga Oblast;TOTAL FEDERAL TAX
+Russia;Central Federal District;0,40%;RUB 20 496,2M;63;34th;1;Ryazan Oblast;TOTAL FEDERAL TAX
+Russia;Central Federal District;0,30%;RUB 15 551,3M;93;36th;1;Vladimir Oblast;TOTAL FEDERAL TAX
+Russia;Central Federal District;0,27%;RUB 14 228,6M;67;38th;1;Smolensk Oblast;TOTAL FEDERAL TAX
+Russia;Central Federal District;0,25%;RUB 12 978,7M;4;39th;1;Belgorod Oblast;TOTAL FEDERAL TAX
+Russia;Central Federal District;0,22%;RUB 11 315,7M;100;42nd;1;Voronezh Oblast;TOTAL FEDERAL TAX
+Russia;Central Federal District;0,19%;RUB 9 721,6M;86;44th;1;Tver Oblast;TOTAL FEDERAL TAX
+Russia;Central Federal District;0,17%;RUB 8 583,9M;36;49th;1;Kursk Oblast;TOTAL FEDERAL TAX
+Russia;Central Federal District;0,15%;RUB 7 756,9M;10;51st;1;Bryansk Oblast;TOTAL FEDERAL TAX
+Russia;Central Federal District;0,11%;RUB 5 821,2M;16;52nd;1;Ivanovo Oblast;TOTAL FEDERAL TAX
+Russia;Central Federal District;0,08%;RUB 4 316,0M;57;58th;1;Oryol Oblast;TOTAL FEDERAL TAX
+Russia;Central Federal District;0,08%;RUB 3 986,7M;28;59th;1;Kostroma Oblast;TOTAL FEDERAL TAX
+Russia;Central Federal District;0,07%;RUB 3 708,0M;82;61st;1;Tula Oblast;TOTAL FEDERAL TAX
+Russia;Central Federal District;0,06%;RUB 3 309,6M;76;64th;1;Tambov Oblast;TOTAL FEDERAL TAX
+Russia;Central Federal District;3,52%;RUB 182 702,1M;54;6th;1;Moscow Oblast;TOTAL FEDERAL TAX
+Russia;Central Federal District;-0,02%;-RUB 1 072,8M;42;82nd;1;Lipetsk Oblast;TOTAL FEDERAL TAX
+Russia;Far East Federal District;0,98%;RUB 51 046,2M;157;20th;1;Sakhalin Oblast;TOTAL FEDERAL TAX
+Russia;Far East Federal District;0,65%;RUB 33 474,8M;153;28th;1;Sakha (Yakutia) Republic;TOTAL FEDERAL TAX
+Russia;Far East Federal District;0,40%;RUB 20 766,2M;136;32nd;1;Khabarovsk Krai;TOTAL FEDERAL TAX
+Russia;Far East Federal District;0,11%;RUB 5 584,9M;113;52nd;1;Amur Oblast;TOTAL FEDERAL TAX
+Russia;Far East Federal District;0,10%;RUB 5 410,2M;149;55th;1;Primorsky Krai;TOTAL FEDERAL TAX
+Russia;Far East Federal District;0,06%;RUB 3 314,5M;130;62nd;1;Kamchatka Krai;TOTAL FEDERAL TAX
+Russia;Far East Federal District;0,00%;-RUB 214,9M;123;78th;1;Jewish Autonomous Oblast;TOTAL FEDERAL TAX
+Russia;Far East Federal District;-0,02%;-RUB 924,9M;119;80th;1;Chutotka Autonomous Area;TOTAL FEDERAL TAX
+Russia;Far East Federal District;-0,08%;-RUB 4 376,0M;143;82nd;1;Magadan Oblast;TOTAL FEDERAL TAX
+Russia;North Caucasus Federal District;0,30%;RUB 15 410,8M;203;37th;1;Stavropol Krai;TOTAL FEDERAL TAX
+Russia;North Caucasus Federal District;0,08%;RUB 4 403,3M;183;57th;1;Republic of Dagestan;TOTAL FEDERAL TAX
+Russia;North Caucasus Federal District;0,05%;RUB 2 501,2M;164;67th;1;Chechen Republic;TOTAL FEDERAL TAX
+Russia;North Caucasus Federal District;0,04%;RUB 2 268,5M;171;68th;1;Kabardino-Balkar Republic;TOTAL FEDERAL TAX
+Russia;North Caucasus Federal District;0,03%;RUB 1 673,6M;179;70th;1;Karachay-Cherkess Republic;TOTAL FEDERAL TAX
+Russia;North Caucasus Federal District;0,02%;RUB 1 282,8M;196;74th;1;Republic of North Ossetia;TOTAL FEDERAL TAX
+Russia;North Caucasus Federal District;0,01%;RUB 492,0M;189;77th;1;Republic of Ingushetia;TOTAL FEDERAL TAX
+Russia;Northwest Federal District;1,54%;RUB 79 976,7M;224;12th;1;Leningrad Oblast;TOTAL FEDERAL TAX
+Russia;Northwest Federal District;1,18%;RUB 61 047,6M;217;17th;1;Komi Republic;TOTAL FEDERAL TAX
+Russia;Northwest Federal District;1,02%;RUB 52 959,7M;213;19th;1;Kaliningrad Oblast;TOTAL FEDERAL TAX
+Russia;Northwest Federal District;0,57%;RUB 29 498,7M;237;30th;1;Nenets Autonomous Area;TOTAL FEDERAL TAX
+Russia;Northwest Federal District;0,18%;RUB 9 207,1M;269;46th;1;Vologda Oblast;TOTAL FEDERAL TAX
+Russia;Northwest Federal District;5,16%;RUB 267 586,0M;263;4th;1;St. Petersburg;TOTAL FEDERAL TAX
+Russia;Northwest Federal District;0,16%;RUB 8 493,8M;207;50th;1;Arkhangelsk Oblast;TOTAL FEDERAL TAX
+Russia;Northwest Federal District;0,11%;RUB 5 555,5M;233;54th;1;Murmansk Oblast;TOTAL FEDERAL TAX
+Russia;Northwest Federal District;0,07%;RUB 3 498,4M;244;62nd;1;Novgorod Oblast;TOTAL FEDERAL TAX
+Russia;Northwest Federal District;0,06%;RUB 3 248,6M;256;65th;1;Republic of Karelia;TOTAL FEDERAL TAX
+Russia;Northwest Federal District;0,04%;RUB 2 091,5M;249;69th;1;Pskov Oblast;TOTAL FEDERAL TAX
+Russia;Siberian Federal District;1,61%;RUB 83 448,9M;327;12th;1;Tomsk Oblast;TOTAL FEDERAL TAX
+Russia;Siberian Federal District;1,23%;RUB 63 983,3M;285;16th;1;Irkutsk Oblast;TOTAL FEDERAL TAX
+Russia;Siberian Federal District;0,72%;RUB 37 478,1M;308;26th;1;Omsk Oblast;TOTAL FEDERAL TAX
+Russia;Siberian Federal District;0,69%;RUB 35 607,7M;306;27th;1;Novosibirsk Oblast;TOTAL FEDERAL TAX
+Russia;Siberian Federal District;0,24%;RUB 12 586,4M;273;40th;1;Altai Krai;TOTAL FEDERAL TAX
+Russia;Siberian Federal District;0,07%;RUB 3 818,4M;293;60th;1;Kemerovo Oblast;TOTAL FEDERAL TAX
+Russia;Siberian Federal District;0,03%;RUB 1 533,6M;340;71st;1;Zabaykalsky Krai;TOTAL FEDERAL TAX
+Russia;Siberian Federal District;0,03%;RUB 1 492,6M;279;72nd;1;Altai Republic;TOTAL FEDERAL TAX
+Russia;Siberian Federal District;0,01%;RUB 645,6M;318;76th;1;Republic of Buryatia;TOTAL FEDERAL TAX
+Russia;Siberian Federal District;-0,01%;-RUB 311,4M;333;79th;1;Tuva Republic;TOTAL FEDERAL TAX
+Russia;Siberian Federal District;2,65%;RUB 137 357,5M;298;7th;1;Krasnoyarsk Krai;TOTAL FEDERAL TAX
+Russia;Siberian Federal District;-0,02%;-RUB 1 063,8M;323;81st;1;Republic of Khakassia;TOTAL FEDERAL TAX
+Russia;Southern Federal District;0,81%;RUB 42 193,7M;370;22nd;1;Rostov Oblast;TOTAL FEDERAL TAX
+Russia;Southern Federal District;0,80%;RUB 41 651,6M;351;24th;1;Krasnodar Krai;TOTAL FEDERAL TAX
+Russia;Southern Federal District;0,52%;RUB 27 031,7M;376;32nd;1;Volgograd Oblast;TOTAL FEDERAL TAX
+Russia;Southern Federal District;0,32%;RUB 16 366,7M;345;35th;1;Astrakhan Oblast;TOTAL FEDERAL TAX
+Russia;Southern Federal District;0,03%;RUB 1 315,4M;358;72nd;1;Republic of Adygeya;TOTAL FEDERAL TAX
+Russia;Southern Federal District;0,01%;RUB 765,0M;363;75th;1;Republic of Kalmykia;TOTAL FEDERAL TAX
+Russia;Ural Federal District;1,27%;RUB 65 989,8M;405;15th;1;Tyumen Oblast;TOTAL FEDERAL TAX
+Russia;Ural Federal District;1,03%;RUB 53 468,8M;398;18th;1;Sverdlovsk Oblast;TOTAL FEDERAL TAX
+Russia;Ural Federal District;27,03%;RUB 1 401 113,5M;385;1st;1;Khanty-Mansi Autonomous Area - Yugra;TOTAL FEDERAL TAX
+Russia;Ural Federal District;0,76%;RUB 39 246,9M;381;25th;1;Chelyabinsk Oblast;TOTAL FEDERAL TAX
+Russia;Ural Federal District;9,31%;RUB 482 549,9M;410;2nd;1;Yamalo-Nenets Autonomous Area;TOTAL FEDERAL TAX
+Russia;Ural Federal District;0,09%;RUB 4 523,8M;394;56th;1;Kurgan Oblast;TOTAL FEDERAL TAX
+Russia;Volga Federal District;2,00%;RUB 103 464,8M;451;10th;1;Perm Krai;TOTAL FEDERAL TAX
+Russia;Volga Federal District;1,73%;RUB 89 917,6M;457;11st;1;Republic of Bashkortostan;TOTAL FEDERAL TAX
+Russia;Volga Federal District;1,34%;RUB 69 396,6M;488;14th;1;Udmurt Republic;TOTAL FEDERAL TAX
+Russia;Volga Federal District;0,90%;RUB 46 423,6M;482;21st;1;Saratov Oblast;TOTAL FEDERAL TAX
+Russia;Volga Federal District;0,84%;RUB 43 515,8M;436;22nd;1;Nizhny Novgorod Oblast;TOTAL FEDERAL TAX
+Russia;Volga Federal District;0,24%;RUB 12 193,6M;497;41st;1;Ulyanovsk Oblast;TOTAL FEDERAL TAX
+Russia;Volga Federal District;0,19%;RUB 9 776,6M;416;42nd;1;Chuvash Republic;TOTAL FEDERAL TAX
+Russia;Volga Federal District;0,18%;RUB 9 342,5M;448;45th;1;Penza Oblast;TOTAL FEDERAL TAX
+Russia;Volga Federal District;0,17%;RUB 8 853,6M;466;47th;1;Republic of Mordovia;TOTAL FEDERAL TAX
+Russia;Volga Federal District;0,17%;RUB 8 658,2M;423;48th;1;Kirov Oblast;TOTAL FEDERAL TAX
+Russia;Volga Federal District;3,55%;RUB 184 058,9M;472;5th;1;Republic of Tatarstan;TOTAL FEDERAL TAX
+Russia;Volga Federal District;0,05%;RUB 2 576,7M;429;66th;1;Mari El Republic;TOTAL FEDERAL TAX
+Russia;Volga Federal District;2,53%;RUB 131 326,2M;479;8th;1;Samara Oblast;TOTAL FEDERAL TAX
+Russia;Volga Federal District;2,28%;RUB 118 264,4M;444;9th;1;Orenburg Oblast;TOTAL FEDERAL TAX
+Russia;Central Federal District;27,22%;RUB 494 348,6M;43;1st;1;Moscow;VAT
+Russia;Central Federal District;0,90%;RUB 16 395,8M;21;22nd;1;Kaluga Oblast;VAT
+Russia;Central Federal District;0,75%;RUB 13 649,6M;91;26th;1;Vladimir Oblast;VAT
+Russia;Central Federal District;0,74%;RUB 13 400,4M;103;27th;1;Yaroslavl Oblast;VAT
+Russia;Central Federal District;0,73%;RUB 13 190,2M;62;28th;1;Ryazan Oblast;VAT
+Russia;Central Federal District;8,18%;RUB 148 576,8M;50;2nd;1;Moscow Oblast;VAT
+Russia;Central Federal District;0,56%;RUB 10 105,8M;1;30th;1;Belgorod Oblast;VAT
+Russia;Central Federal District;0,52%;RUB 9 400,4M;98;32nd;1;Voronezh Oblast;VAT
+Russia;Central Federal District;0,47%;RUB 8 541,6M;85;35th;1;Tver Oblast;VAT
+Russia;Central Federal District;0,36%;RUB 6 526,4M;32;40th;1;Kursk Oblast;VAT
+Russia;Central Federal District;0,26%;RUB 4 667,7M;14;44th;1;Ivanovo Oblast;VAT
+Russia;Central Federal District;0,20%;RUB 3 651,4M;9;49th;1;Bryansk Oblast;VAT
+Russia;Central Federal District;0,20%;RUB 3 591,2M;56;50th;1;Oryol Oblast;VAT
+Russia;Central Federal District;0,16%;RUB 2 947,5M;27;52nd;1;Kostroma Oblast;VAT
+Russia;Central Federal District;0,16%;RUB 2 851,4M;73;54th;1;Tambov Oblast;VAT
+Russia;Central Federal District;0,08%;RUB 1 454,6M;71;61st;1;Smolensk Oblast;VAT
+Russia;Central Federal District;-0,02%;-RUB 272,9M;84;76th;1;Tula Oblast;VAT
+Russia;Central Federal District;-0,22%;-RUB 3 971,3M;41;82nd;1;Lipetsk Oblast;VAT
+Russia;Far East Federal District;0,89%;RUB 16 076,4M;134;25th;1;Khabarovsk Krai;VAT
+Russia;Far East Federal District;0,19%;RUB 3 482,5M;112;51st;1;Amur Oblast;VAT
+Russia;Far East Federal District;0,16%;RUB 2 851,3M;161;55th;1;Sakhalin Oblast;VAT
+Russia;Far East Federal District;0,15%;RUB 2 665,2M;128;56th;1;Kamchatka Krai;VAT
+Russia;Far East Federal District;0,04%;RUB 682,9M;156;68th;1;Sakha (Yakutia) Republic;VAT
+Russia;Far East Federal District;0,01%;RUB 252,8M;150;72nd;1;Primorsky Krai;VAT
+Russia;Far East Federal District;-0,01%;-RUB 259,9M;122;75th;1;Jewish Autonomous Oblast;VAT
+Russia;Far East Federal District;-0,15%;-RUB 2 758,7M;118;80th;1;Chutotka Autonomous Area;VAT
+Russia;Far East Federal District;-0,33%;-RUB 5 912,6M;142;82nd;1;Magadan Oblast;VAT
+Russia;North Caucasus Federal District;0,47%;RUB 8 504,5M;202;36th;1;Stavropol Krai;VAT
+Russia;North Caucasus Federal District;0,11%;RUB 1 934,6M;184;60th;1;Republic of Dagestan;VAT
+Russia;North Caucasus Federal District;0,06%;RUB 1 093,4M;178;64th;1;Karachay-Cherkess Republic;VAT
+Russia;North Caucasus Federal District;0,06%;RUB 1 027,1M;194;65th;1;Republic of North Ossetia;VAT
+Russia;North Caucasus Federal District;0,04%;RUB 675,1M;172;69th;1;Kabardino-Balkar Republic;VAT
+Russia;North Caucasus Federal District;0,02%;RUB 317,4M;188;70th;1;Republic of Ingushetia;VAT
+Russia;North Caucasus Federal District;0,01%;RUB 232,9M;166;72nd;1;Chechen Republic;VAT
+Russia;Northwest Federal District;1,26%;RUB 22 907,9M;225;18th;1;Leningrad Oblast;VAT
+Russia;Northwest Federal District;0,38%;RUB 6 974,2M;205;38th;1;Arkhangelsk Oblast;VAT
+Russia;Northwest Federal District;0,27%;RUB 4 985,4M;268;42nd;1;Vologda Oblast;VAT
+Russia;Northwest Federal District;0,22%;RUB 3 964,1M;231;47th;1;Murmansk Oblast;VAT
+Russia;Northwest Federal District;7,29%;RUB 132 324,0M;262;4th;1;St. Petersburg;VAT
+Russia;Northwest Federal District;0,17%;RUB 3 089,8M;220;52nd;1;Komi Republic;VAT
+Russia;Northwest Federal District;0,12%;RUB 2 249,8M;255;57th;1;Republic of Karelia;VAT
+Russia;Northwest Federal District;0,12%;RUB 2 220,0M;243;58th;1;Novgorod Oblast;VAT
+Russia;Northwest Federal District;0,08%;RUB 1 417,2M;248;62nd;1;Pskov Oblast;VAT
+Russia;Northwest Federal District;-0,07%;-RUB 1 347,3M;239;78th;1;Nenets Autonomous Area;VAT
+Russia;Northwest Federal District;1,90%;RUB 34 533,0M;216;9th;1;Kaliningrad Oblast;VAT
+Russia;Siberian Federal District;1,56%;RUB 28 392,8M;326;11st;1;Tomsk Oblast;VAT
+Russia;Siberian Federal District;1,49%;RUB 27 082,9M;283;14th;1;Irkutsk Oblast;VAT
+Russia;Siberian Federal District;1,47%;RUB 26 655,5M;301;15th;1;Novosibirsk Oblast;VAT
+Russia;Siberian Federal District;1,14%;RUB 20 621,9M;307;19th;1;Omsk Oblast;VAT
+Russia;Siberian Federal District;0,55%;RUB 9 922,5M;272;31st;1;Altai Krai;VAT
+Russia;Siberian Federal District;0,07%;RUB 1 361,6M;278;62nd;1;Altai Republic;VAT
+Russia;Siberian Federal District;0,04%;RUB 742,8M;338;67th;1;Zabaykalsky Krai;VAT
+Russia;Siberian Federal District;0,00%;RUB 30,4M;317;74th;1;Republic of Buryatia;VAT
+Russia;Siberian Federal District;-0,02%;-RUB 410,4M;332;77th;1;Tuva Republic;VAT
+Russia;Siberian Federal District;-0,08%;-RUB 1 494,3M;322;79th;1;Republic of Khakassia;VAT
+Russia;Siberian Federal District;-0,16%;-RUB 2 866,9M;294;81st;1;Kemerovo Oblast;VAT
+Russia;Siberian Federal District;1,91%;RUB 34 776,4M;300;8th;1;Krasnoyarsk Krai;VAT
+Russia;Southern Federal District;1,13%;RUB 20 490,9M;368;20th;1;Rostov Oblast;VAT
+Russia;Southern Federal District;0,48%;RUB 8 705,5M;352;34th;1;Krasnodar Krai;VAT
+Russia;Southern Federal District;0,29%;RUB 5 199,0M;378;42nd;1;Volgograd Oblast;VAT
+Russia;Southern Federal District;0,24%;RUB 4 398,7M;346;46th;1;Astrakhan Oblast;VAT
+Russia;Southern Federal District;0,05%;RUB 964,5M;357;66th;1;Republic of Adygeya;VAT
+Russia;Southern Federal District;0,02%;RUB 306,7M;362;71st;1;Republic of Kalmykia;VAT
+Russia;Ural Federal District;1,51%;RUB 27 399,0M;379;12th;1;Chelyabinsk Oblast;VAT
+Russia;Ural Federal District;0,60%;RUB 10 815,3M;406;29th;1;Tyumen Oblast;VAT
+Russia;Ural Federal District;10,70%;RUB 194 410,2M;387;2nd;1;Khanty-Mansi Autonomous Area - Yugra;VAT
+Russia;Ural Federal District;0,21%;RUB 3 843,9M;391;48th;1;Kurgan Oblast;VAT
+Russia;Ural Federal District;5,92%;RUB 107 558,0M;414;5th;1;Yamalo-Nenets Autonomous Area;VAT
+Russia;Ural Federal District;2,39%;RUB 43 330,7M;401;7th;1;Sverdlovsk Oblast;VAT
+Russia;Volga Federal District;1,80%;RUB 32 631,4M;469;10th;1;Republic of Tatarstan;VAT
+Russia;Volga Federal District;1,50%;RUB 27 256,3M;452;12th;1;Perm Krai;VAT
+Russia;Volga Federal District;1,40%;RUB 25 440,3M;434;16th;1;Nizhny Novgorod Oblast;VAT
+Russia;Volga Federal District;1,31%;RUB 23 719,3M;489;17th;1;Udmurt Republic;VAT
+Russia;Volga Federal District;1,04%;RUB 18 935,0M;440;21st;1;Orenburg Oblast;VAT
+Russia;Volga Federal District;0,95%;RUB 17 303,6M;459;22nd;1;Republic of Bashkortostan;VAT
+Russia;Volga Federal District;0,90%;RUB 16 272,8M;483;24th;1;Saratov Oblast;VAT
+Russia;Volga Federal District;0,49%;RUB 8 827,3M;415;32nd;1;Chuvash Republic;VAT
+Russia;Volga Federal District;0,40%;RUB 7 318,5M;421;37th;1;Kirov Oblast;VAT
+Russia;Volga Federal District;0,38%;RUB 6 849,2M;447;39th;1;Penza Oblast;VAT
+Russia;Volga Federal District;0,31%;RUB 5 716,0M;496;41st;1;Ulyanovsk Oblast;VAT
+Russia;Volga Federal District;0,25%;RUB 4 517,2M;465;45th;1;Republic of Mordovia;VAT
+Russia;Volga Federal District;0,12%;RUB 2 191,3M;428;59th;1;Mari El Republic;VAT
+Russia;Volga Federal District;2,97%;RUB 53 862,8M;477;6th;1;Samara Oblast;VAT
